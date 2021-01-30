@@ -22,12 +22,6 @@ For students and faculty at Tennessee Tech who seek a solution to the parking pr
 
 [Link to Eagle Ride Description](https://tennesseetechuniversity.sharepoint.com/:b:/r/sites/CSC2310Spring2021/Shared%20Documents/General/Laboratory/RideShare.pdf?csf=1&web=1&e=2lzFs1)
 
-### Mural Boards
-Use the following Mural boards to assist with crafting your models.
-
-* [Section 001 Mural Board](Vending%20Machine-001.pdf)
-* [Section 002 Mural Board](Vending%20Machine-002.pdf)
-
 #### Activity
 Create a use case diagram based on the user stories found in the Eagle Ride description. You may limit your scope to just the features identified in the user stories. In your diagram, you should do the following:
 * Create a use case diagram for the _Rider_ features, using three different _Rider_ types: _Potential Rider_ (for riders that are either seeking or scheduling a ride), _Current Rider_ (for riders that have requested a ride or are currently riding in car), and _Past Rider_ (for riders that have completed a ride).
