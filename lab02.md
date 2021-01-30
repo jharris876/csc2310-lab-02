@@ -9,12 +9,6 @@ In this lab you will learn how to create diagrams using the StarUML environment.
 ```text
 % git clone https://gitlab.csc.tntech.edu/csc2310-sp21-students/%userid%/%userid%-lab-02.git
 ```
-<<<<<<< HEAD
-replacing ```%userid%``` with your own TNTech issued userid.
-
-### Problem Description
-The V-Vend Vending Machine allows customers to buy various snacks and drinks from a kiosk. The display screen shows available products on an LED touchscreen and allows users to select their desired products. The system accepts credit cards, bills (\$1, \$5, \$10, \$20) and coins (nickels, dimes, and quarters). Once ordered, the system allows a user to take a refund by canceling the request. Once selected, the system dispenses the selected product and remaining change, if any. The system has a maintenance mode that allows a technician to reset the system, change the contents that are dispensed, change prices, and shutdown the unit.
-=======
 replacing ``%userid%`` with your own TNTech issued userid.
 
 ### Problem Description
@@ -27,7 +21,6 @@ We are creating a carpooling application for the students and faculty of Tenness
 For students and faculty at Tennessee Tech who seek a solution to the parking problem on campus, the carpooling app is a tool that will make it easier to get to and around campus while also providing incentives to those who use it. Unlike other ride sharing apps, our solution will be designed to provide a service that is only available to students and faculty of participating universities so that it can ensure the safe delivery of users to their destination while also not requiring a direct transfer of money.
 
 [Link to Eagle Ride Description](https://tennesseetechuniversity.sharepoint.com/:b:/r/sites/CSC2310Spring2021/Shared%20Documents/General/Laboratory/RideShare.pdf?csf=1&web=1&e=2lzFs1)
->>>>>>> a2c03567fe637b78832e582ae781b612819e4502
 
 ### Mural Boards
 Use the following Mural boards to assist with crafting your models.
@@ -36,14 +29,9 @@ Use the following Mural boards to assist with crafting your models.
 * [Section 002 Mural Board](Vending%20Machine-002.pdf)
 
 #### Activity
-<<<<<<< HEAD
-* Create a use case diagram based on the problem description. You may limit your scope to just the features identified in the problem description. 
-* Create a class diagram based on the problem description. You may limit your scope to just the classes relevant to the problem description.
-=======
 Create a use case diagram based on the user stories found in the Eagle Ride description. You may limit your scope to just the features identified in the user stories. In your diagram, you should do the following:
 * Create a use case diagram for the _Rider_ features, using three different _Rider_ types: _Potential Rider_ (for riders that are either seeking or scheduling a ride), _Current Rider_ (for riders that have requested a ride or are currently riding in car), and _Past Rider_ (for riders that have completed a ride).
 * Partition the interfaces as you see fit based on your analysis of the kinds of features requested
->>>>>>> a2c03567fe637b78832e582ae781b612819e4502
 
 #### Turn-in
 You must include the following meta-data in your diagram as a text annotation (Toolbox &#8594; Annotations &#8594; Note):
