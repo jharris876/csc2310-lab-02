@@ -30,8 +30,13 @@ You must include the following meta-data in your diagram as a text annotation (T
 * T-Number
 * Lab Section
 
-Save your project file with the following name as follows: ```userid_lab02.mdl``` in the directory created when you executed the ```git clone``` command above. For example, ```jgannod_lab02.mdl```.
+Save your project file with the following name as follows: ```userid_lab02.mdl``` in the directory created when you executed the ```git clone``` command above. For example, ```jgannod_lab02.mdl```. 
 
 Submit your ```.mdl``` file to iLearn using the appropriate link and by using the following commands:
+```text
+% git add userid_lab02.mdl
+% git commit -m "Completed assignment"
+% git push origin master
+```
 
 This laboratory is worth 20 points.
